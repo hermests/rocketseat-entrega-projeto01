@@ -44,7 +44,7 @@ P, #footer {
   margin-left: 28px;
 }
 
-#line {
+.line {
   border: 1px #ECEFF2 solid;
   height: 0px;
   margin: auto;
